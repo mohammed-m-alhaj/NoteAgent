@@ -1,6 +1,6 @@
-﻿# DeployAIAgent
+﻿# NoteAgent
 
-DeployAIAgent is a simple web app built with FastAPI + LangGraph/LangChain.
+NoteAgent is a simple web app built with FastAPI + LangGraph/LangChain.
 It runs an AI note assistant that can read and write text files from natural language prompts.
 
 ## Features
